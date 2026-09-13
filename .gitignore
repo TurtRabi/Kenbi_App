@@ -1,0 +1,7 @@
+*.zip
+*.exe
+*.7z
+*.rar
+.vs/
+bin/
+obj/
