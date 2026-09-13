@@ -93,16 +93,18 @@
     },
     {
       "id": "tikfinity",
-      "name": "TikFinity (Bộ Kích Nổ Quà & Tương Tác)",
+      "name": "TikFinity (Bộ Kích Nổ Quà & Tương Tác Live)",
       "category": "Tương tác Live",
-      "version": "1.8.4",
-      "fileName": "TikFinity_Setup.exe",
-      "downloadUrl": "",
-      "fileSizeMb": 65.2,
-      "description": "Công cụ tạo hiệu ứng nổ quà, đọc comment và phát âm thanh tương tác theo thời gian thực trên TikTok Live.",
-      "isRecommended": false,
+      "version": "2.0.0",
+      "fileName": "TikFinity-Setup-2.0.0.exe",
+      "downloadUrl": "https://tikfinity-electron-updates.b-cdn.net/win/TikFinity-Setup-2.0.0.exe",
+      "fileSizeMb": 92.4,
+      "description": "Công cụ tạo hiệu ứng nổ quà, đọc comment TTS và kích hoạt âm thanh tương tác phòng live TikTok.",
+      "isRecommended": true,
       "installedCheckProcessName": "TikFinity",
-      "isComingSoon": true
+      "registrySearchName": "TikFinity",
+      "commonExecutablePath": "%LOCALAPPDATA%\\Programs\\tikfinity\\TikFinity.exe",
+      "isComingSoon": false
     },
     {
       "id": "sound_effect",
