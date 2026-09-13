@@ -86,7 +86,9 @@
       "fileSizeMb": 154.0,
       "description": "Bộ công cụ làm đẹp chuyên dụng gồm App Beauty v2.0 & Cấu hình setup chuẩn phòng live.",
       "isRecommended": true,
-      "installedCheckProcessName": "beauty",
+      "installedCheckProcessName": "LamDepWpf",
+      "registrySearchName": "App Beauty",
+      "commonExecutablePath": "C:\\Program Files\\App Beauty v2.0\\LamDepWpf.exe",
       "isComingSoon": false
     },
     {
