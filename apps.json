@@ -126,12 +126,33 @@
       "name": "Cubase / DAW Live Project (Bản Setup Sẵn)",
       "category": "Âm thanh",
       "version": "12.0.0",
-      "fileName": "DAW_Live_Setup.exe",
-      "downloadUrl": "",
+      "fileName": "DAW_Live_Studio_Setup.exe",
+      "downloadUrl": "https://github.com/TurtRabi/Kenbi_App/releases/download/cubase_project/DAW_Live_Studio_Setup.exe",
       "fileSizeMb": 450.0,
       "description": "Project xử lý âm thanh giọng hát chuyên nghiệp, tích hợp sẵn Autotune và preset micro độc quyền KenbiStudio.",
-      "isRecommended": false,
-      "isComingSoon": true
+      "isRecommended": true,
+      "installedCheckProcessName": "Cubase12",
+      "registrySearchName": "Cubase",
+      "commonExecutablePath": "C:\\Program Files\\Steinberg\\Cubase 12\\Cubase12.exe",
+      "isComingSoon": false,
+      "variants": [
+        {
+          "id": "live-studio",
+          "name": "Live Studio (TikTok LIVE)",
+          "fileName": "DAW_Live_Studio_Setup.exe",
+          "downloadUrl": "https://github.com/TurtRabi/Kenbi_App/releases/download/cubase_project/DAW_Live_Studio_Setup.exe",
+          "fileSizeMb": 450.0,
+          "description": "Project DAW tối ưu routing đường tiếng riêng biệt cho TikTok LIVE Studio & micro hát live (chống vọng tiếng mic)."
+        },
+        {
+          "id": "live-thuong",
+          "name": "Live Thường (OBS / Mic thường)",
+          "fileName": "DAW_Live_Thuong_Setup.exe",
+          "downloadUrl": "https://github.com/TurtRabi/Kenbi_App/releases/download/cubase_project/DAW_Live_Thuong_Setup.exe",
+          "fileSizeMb": 420.0,
+          "description": "Project DAW tiêu chuẩn kết nối qua Virtual Cable / Stereo Mix cho OBS và các nền tảng live thường."
+        }
+      ]
     }
   ]
 }
