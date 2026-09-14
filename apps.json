@@ -157,8 +157,11 @@
           "name": "Live Thường",
           "fileName": "DAW_Live_Thuong_Setup.zip",
           "downloadUrl": "https://github.com/TurtRabi/Kenbi_App/releases/download/cubase_project/DAW_Live_Thuong_Setup.zip",
-          "fileSizeMb": 1394.0,
-          "description": "Bản Cubase tiêu chuẩn kết nối qua Virtual Cable / Stereo Mix cho OBS và các nền tảng live thường. Đã tích hợp Waves 10 & VST Plugins."
+          "fileSizeMb": 1548.0,
+          "installedCheckProcessName": "Cubase15",
+          "registrySearchName": "Cubase 15",
+          "commonExecutablePath": "C:\\Program Files\\Steinberg\\Cubase 15\\Cubase15.exe",
+          "description": "Bản Cubase 15 Pro tiêu chuẩn kết nối qua Virtual Cable / Stereo Mix cho OBS và các nền tảng live thường. Đã tích hợp Waves 10 & VST Plugins."
         }
       ]
     },
