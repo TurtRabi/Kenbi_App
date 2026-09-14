@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-10T16:00:00Z",
+  "updatedAt": "2026-09-14T15:35:00Z",
   "packages": [
     {
       "id": "tiktok-live-studio",
@@ -129,12 +129,20 @@
       "fileName": "DAW_Live_Studio_Setup.zip",
       "downloadUrl": "https://github.com/TurtRabi/Kenbi_App/releases/download/cubase_project/DAW_Live_Studio_Setup.zip",
       "fileSizeMb": 1031.0,
-      "description": "Project xử lý âm thanh giọng hát chuyên nghiệp, tích hợp sẵn Autotune và preset micro độc quyền KenbiStudio.",
+      "description": "Project xử lý âm thanh giọng hát chuyên nghiệp kèm trọn gói Waves Complete 10, Autotune và preset micro độc quyền KenbiStudio.",
       "isRecommended": true,
       "installedCheckProcessName": "Cubase12",
       "registrySearchName": "Cubase",
       "commonExecutablePath": "C:\\Program Files\\Steinberg\\Cubase 12\\Cubase12.exe",
       "isComingSoon": false,
+      "companionFiles": [
+        {
+          "fileName": "Waves_Complete_10.part1.rar",
+          "downloadUrl": "https://github.com/TurtRabi/Kenbi_App/releases/download/cubase_project/Waves_Complete_10.part1.rar",
+          "fileSizeMb": 2568.0,
+          "relativeExtractPath": "4. WAVES"
+        }
+      ],
       "variants": [
         {
           "id": "live-studio",
@@ -142,7 +150,7 @@
           "fileName": "DAW_Live_Studio_Setup.zip",
           "downloadUrl": "https://github.com/TurtRabi/Kenbi_App/releases/download/cubase_project/DAW_Live_Studio_Setup.zip",
           "fileSizeMb": 1031.0,
-          "description": "Bản Cubase 12 Pro tối ưu routing đường tiếng riêng biệt cho TikTok LIVE Studio & micro hát live chống vọng tiếng."
+          "description": "Bản Cubase 12 Pro tối ưu routing đường tiếng riêng biệt cho TikTok LIVE Studio & micro hát live chống vọng tiếng. Đã tích hợp Waves 10 & VST Plugins."
         },
         {
           "id": "live-thuong",
@@ -150,24 +158,9 @@
           "fileName": "DAW_Live_Thuong_Setup.zip",
           "downloadUrl": "https://github.com/TurtRabi/Kenbi_App/releases/download/cubase_project/DAW_Live_Thuong_Setup.zip",
           "fileSizeMb": 1394.0,
-          "description": "Bản Cubase tiêu chuẩn kết nối qua Virtual Cable / Stereo Mix cho OBS và các nền tảng live thường."
+          "description": "Bản Cubase tiêu chuẩn kết nối qua Virtual Cable / Stereo Mix cho OBS và các nền tảng live thường. Đã tích hợp Waves 10 & VST Plugins."
         }
       ]
-    },
-    {
-      "id": "waves-complete-10",
-      "name": "Waves Complete 10 (Gói Hiệu Ứng Waves)",
-      "category": "Âm thanh",
-      "version": "10.0.0",
-      "fileName": "Waves_Complete_10.part1.rar",
-      "downloadUrl": "https://github.com/TurtRabi/Kenbi_App/releases/download/cubase_project/Waves_Complete_10.part1.rar",
-      "fileSizeMb": 2568.0,
-      "description": "Bộ hiệu ứng âm thanh chuyên nghiệp (SSL, CLA-76, L2, Vocal Rider) dùng chung cho cả Cubase 12 và Cubase 15.",
-      "isRecommended": true,
-      "installedCheckProcessName": "",
-      "registrySearchName": "Waves",
-      "commonExecutablePath": "",
-      "isComingSoon": false
     },
     {
       "id": "coin_jar",
