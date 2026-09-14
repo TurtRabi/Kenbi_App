@@ -153,6 +153,21 @@
           "description": "Bản Cubase tiêu chuẩn kết nối qua Virtual Cable / Stereo Mix cho OBS và các nền tảng live thường."
         }
       ]
+    },
+    {
+      "id": "coin_jar",
+      "name": "Coin Jar Tiktok",
+      "category": "Hiệu Ứng",
+      "version": "1.0.0",
+      "fileName": "",
+      "downloadUrl": "",
+      "fileSizeMb": 0,
+      "description": "",
+      "isRecommended": true,
+      "installedCheckProcessName": "",
+      "registrySearchName": "Coin Jar",
+      "commonExecutablePath": "",
+      "isComingSoon": true
     }
   ]
 }
