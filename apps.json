@@ -138,19 +138,19 @@
       "variants": [
         {
           "id": "live-studio",
-          "name": "Live Studio (TikTok LIVE)",
+          "name": "Live Studio",
           "fileName": "DAW_Live_Studio_Setup.exe",
           "downloadUrl": "https://github.com/TurtRabi/Kenbi_App/releases/download/cubase_project/DAW_Live_Studio_Setup.exe",
           "fileSizeMb": 450.0,
-          "description": "Project DAW tối ưu routing đường tiếng riêng biệt cho TikTok LIVE Studio & micro hát live (chống vọng tiếng mic)."
+          "description": "Bản Cubase tối ưu routing đường tiếng riêng biệt cho TikTok LIVE Studio & micro hát live chống vọng tiếng."
         },
         {
           "id": "live-thuong",
-          "name": "Live Thường (OBS / Mic thường)",
+          "name": "Live Thường",
           "fileName": "DAW_Live_Thuong_Setup.exe",
           "downloadUrl": "https://github.com/TurtRabi/Kenbi_App/releases/download/cubase_project/DAW_Live_Thuong_Setup.exe",
           "fileSizeMb": 420.0,
-          "description": "Project DAW tiêu chuẩn kết nối qua Virtual Cable / Stereo Mix cho OBS và các nền tảng live thường."
+          "description": "Bản Cubase tiêu chuẩn kết nối qua Virtual Cable / Stereo Mix cho OBS và các nền tảng live thường."
         }
       ]
     }
