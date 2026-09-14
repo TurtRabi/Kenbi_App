@@ -168,6 +168,21 @@
       "registrySearchName": "Coin Jar",
       "commonExecutablePath": "",
       "isComingSoon": true
+    },
+    {
+      "id": "effect_tiktok",
+      "name": "Effect Tiktok",
+      "category": "Hiệu Ứng",
+      "version": "1.0.0",
+      "fileName": "",
+      "downloadUrl": "",
+      "fileSizeMb": 0,
+      "description": "",
+      "isRecommended": true,
+      "installedCheckProcessName": "",
+      "registrySearchName": "",
+      "commonExecutablePath": "",
+      "isComingSoon": true
     }
   ]
 }
