@@ -134,7 +134,7 @@
       "installedCheckProcessName": "Cubase12",
       "registrySearchName": "Cubase",
       "commonExecutablePath": "C:\\Program Files\\Steinberg\\Cubase 12\\Cubase12.exe",
-      "isComingSoon": false,
+      "isComingSoon": true,
       "variants": [
         {
           "id": "live-studio",
