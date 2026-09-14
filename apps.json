@@ -194,6 +194,21 @@
       "registrySearchName": "",
       "commonExecutablePath": "",
       "isComingSoon": true
+    },
+    {
+      "id": "tune_ai",
+      "name": "Tune Ai",
+      "category": "Âm thanh",
+      "version": "1.0.0",
+      "fileName": "",
+      "downloadUrl": "",
+      "fileSizeMb": 0,
+      "description": "",
+      "isRecommended": true,
+      "installedCheckProcessName": "",
+      "registrySearchName": "",
+      "commonExecutablePath": "",
+      "isComingSoon": true
     }
   ]
 }
