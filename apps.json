@@ -167,18 +167,18 @@
     },
     {
       "id": "coin_jar",
-      "name": "Coin Jar Tiktok",
+      "name": "Coin Jar TikTok (Hũ Xu Tương Tác Live)",
       "category": "Hiệu Ứng",
       "version": "1.0.0",
-      "fileName": "",
-      "downloadUrl": "",
-      "fileSizeMb": 0,
-      "description": "",
+      "fileName": "coin_jar_v1.0.0.zip",
+      "downloadUrl": "https://github.com/TurtRabi/Kenbi_App/releases/download/coin_jar/coin_jar_v1.0.0.zip",
+      "fileSizeMb": 157.7,
+      "description": "Ứng dụng hũ xu TikTok tương tác phòng live, kích hoạt hiệu ứng rơi xu khi tặng quà và kết nối tài khoản TikTok Live.",
       "isRecommended": true,
-      "installedCheckProcessName": "",
-      "registrySearchName": "Coin Jar",
-      "commonExecutablePath": "",
-      "isComingSoon": true
+      "installedCheckProcessName": "CoinJarApp",
+      "registrySearchName": "Coin Jar TikTok",
+      "commonExecutablePath": "C:\\Program Files\\Coin Jar TikTok\\CoinJarApp.exe",
+      "isComingSoon": false
     },
     {
       "id": "effect_tiktok",
