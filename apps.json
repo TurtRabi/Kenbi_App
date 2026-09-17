@@ -2,13 +2,13 @@
   "version": 2,
   "updatedAt": "2026-09-15T02:20:00Z",
   "appUpdate": {
-    "version": "2.1.1",
+    "version": "2.1.2",
     "releaseDate": "2026-09-17",
-    "fileName": "Kenbi_Live_Assistant_Setup_v2.1.1.exe",
-    "downloadUrl": "https://github.com/TurtRabi/Kenbi_App/releases/download/live_assistant/Kenbi_Live_Assistant_Setup_v2.1.1.exe",
+    "fileName": "Kenbi_Live_Assistant_Setup_v2.1.2.exe",
+    "downloadUrl": "https://github.com/TurtRabi/Kenbi_App/releases/download/live_assistant/Kenbi_Live_Assistant_Setup_v2.1.2.exe",
     "fileSizeMb": 50.8,
-    "sha256": "BC3A577A97187A9155BE6D0BC3CF361A0A388CBD65E434B3F39D3CF8539D5408",
-    "changelog": "• Nâng cấp bộ cài đặt độc lập (Self-Contained), không cần cài .NET 8.\n• Tối ưu routing âm thanh TikTok LIVE Studio (Speaker 01 & Speaker 02) không bị reset.\n• Cập nhật link tải trực tiếp TikTok Studio, OBS và sửa lỗi tự động giải nén Waves vào các ứng dụng khác."
+    "sha256": "95C2FF0C4FB33A102AAA1B24DB2BE65785942DEFEB0A1017DA151AD3C10473C1",
+    "changelog": "• Bổ sung cơ chế tự động khởi động lại TikTok Studio khi bấm 'FIX STU' để áp dụng ngay Speaker 01 và Speaker 02.\n• Thêm hộp thoại thông báo chi tiết trạng thái sau khi Fix lỗi.\n• Tối ưu khởi chạy TikTok LIVE Studio Launcher chính thức.\n• Đóng gói trọn gói Self-Contained độc lập (.NET 8 tích hợp sẵn)."
   },
   "packages": [
     {
