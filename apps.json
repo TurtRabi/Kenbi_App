@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-15T02:20:00Z",
+  "updatedAt": "2026-09-25T15:30:00Z",
   "appUpdate": {
     "version": "2.1.2",
     "releaseDate": "2026-09-17",
     "fileName": "Kenbi_Live_Assistant_Setup_v2.1.2.exe",
-    "downloadUrl": "https://github.com/TurtRabi/Kenbi_App/releases/download/live_assistant/Kenbi_Live_Assistant_Setup_v2.1.2.exe",
+    "downloadUrl": "https://pub-8e209b081195480ba66821619a5a8ba3.r2.dev/Kenbi_Live_Assistant_Setup_v2.1.2.exe",
     "fileSizeMb": 50.8,
     "sha256": "95C2FF0C4FB33A102AAA1B24DB2BE65785942DEFEB0A1017DA151AD3C10473C1",
-    "changelog": "• Bổ sung cơ chế tự động khởi động lại TikTok Studio khi bấm 'FIX STU' để áp dụng ngay Speaker 01 và Speaker 02.\n• Thêm hộp thoại thông báo chi tiết trạng thái sau khi Fix lỗi.\n• Tối ưu khởi chạy TikTok LIVE Studio Launcher chính thức.\n• Đóng gói trọn gói Self-Contained độc lập (.NET 8 tích hợp sẵn)."
+    "changelog": "• Nâng cấp tải đa luồng Multi-part 4-Stream siêu tốc độ cao.\n• Hiển thị rõ ràng tiến trình chi tiết các phần cài đặt Cubase & Waves 10.\n• Tích hợp tải trực tiếp từ máy chủ Cloudflare R2 nội địa siêu nhanh.\n• Bổ sung tính năng Thu âm & Kiểm tra Micro nhanh trên Menu Nổi."
   },
   "packages": [
     {
@@ -91,7 +91,7 @@
       "category": "Camera & Làm đẹp",
       "version": "2.0.1",
       "fileName": "App_Beauty_v2.1.3_Setup.zip",
-      "downloadUrl": "https://github.com/TurtRabi/Kenbi_App/releases/download/app_beauty/App_Beauty_v2.1.3_Setup.zip",
+      "downloadUrl": "https://pub-8e209b081195480ba66821619a5a8ba3.r2.dev/App_Beauty_v2.1.3_Setup.zip",
       "fileSizeMb": 154.0,
       "description": "Bộ công cụ làm đẹp chuyên dụng gồm App Beauty v2.0 & Cấu hình setup chuẩn phòng live.",
       "isRecommended": true,
@@ -121,7 +121,7 @@
       "category": "Âm thanh & MIDI",
       "version": "1.0.0",
       "fileName": "sound_effect.zip",
-      "downloadUrl": "https://github.com/TurtRabi/Kenbi_App/releases/download/sound_effect/sound_effect.zip",
+      "downloadUrl": "https://pub-8e209b081195480ba66821619a5a8ba3.r2.dev/sound_effect.zip",
       "fileSizeMb": 161.1,
       "description": "Bàn phím âm thanh phản ứng nhanh: tiếng cười troll, vỗ tay, hò reo, hiệu ứng tương tác phòng live KenBi Studio.",
       "isRecommended": true,
@@ -136,7 +136,7 @@
       "category": "Âm thanh",
       "version": "12.0.0",
       "fileName": "DAW_Live_Studio_Setup.zip",
-      "downloadUrl": "https://github.com/TurtRabi/Kenbi_App/releases/download/cubase_project/DAW_Live_Studio_Setup.zip",
+      "downloadUrl": "https://pub-8e209b081195480ba66821619a5a8ba3.r2.dev/DAW_Live_Studio_Setup.zip",
       "fileSizeMb": 898.0,
       "description": "Project xử lý âm thanh giọng hát chuyên nghiệp kèm trọn gói Waves Complete 10, Autotune và preset micro độc quyền KenbiStudio.",
       "isRecommended": true,
@@ -147,8 +147,14 @@
       "companionFiles": [
         {
           "fileName": "Waves_Complete_10.part1.rar",
-          "downloadUrl": "https://github.com/TurtRabi/Kenbi_App/releases/download/cubase_project/Waves_Complete_10.part1.rar",
-          "fileSizeMb": 2568.0,
+          "downloadUrl": "https://pub-8e209b081195480ba66821619a5a8ba3.r2.dev/Waves_Complete_10.part1.rar",
+          "fileSizeMb": 1400.0,
+          "relativeExtractPath": "4. WAVES"
+        },
+        {
+          "fileName": "Waves_Complete_10.part2.rar",
+          "downloadUrl": "https://pub-8e209b081195480ba66821619a5a8ba3.r2.dev/Waves_Complete_10.part2.rar",
+          "fileSizeMb": 1168.0,
           "relativeExtractPath": "4. WAVES"
         }
       ],
@@ -157,7 +163,7 @@
           "id": "live-studio",
           "name": "Live Studio",
           "fileName": "DAW_Live_Studio_Setup.zip",
-          "downloadUrl": "https://github.com/TurtRabi/Kenbi_App/releases/download/cubase_project/DAW_Live_Studio_Setup.zip",
+          "downloadUrl": "https://pub-8e209b081195480ba66821619a5a8ba3.r2.dev/DAW_Live_Studio_Setup.zip",
           "fileSizeMb": 898.0,
           "description": "Bản Cubase 12 Pro tối ưu routing đường tiếng riêng biệt cho TikTok LIVE Studio & micro hát live chống vọng tiếng. Đã tích hợp Waves 10 & VST Plugins."
         },
@@ -165,7 +171,7 @@
           "id": "live-thuong",
           "name": "Live Thường",
           "fileName": "DAW_Live_Thuong_Setup.zip",
-          "downloadUrl": "https://github.com/TurtRabi/Kenbi_App/releases/download/cubase_project/DAW_Live_Thuong_Setup.zip",
+          "downloadUrl": "https://pub-8e209b081195480ba66821619a5a8ba3.r2.dev/DAW_Live_Thuong_Setup.zip",
           "fileSizeMb": 1548.0,
           "installedCheckProcessName": "Cubase15",
           "registrySearchName": "Cubase 15",
@@ -180,7 +186,7 @@
       "category": "Hiệu Ứng",
       "version": "1.0.0",
       "fileName": "coin_jar_v1.0.0.zip",
-      "downloadUrl": "https://github.com/TurtRabi/Kenbi_App/releases/download/coin_jar/coin_jar_v1.0.0.zip",
+      "downloadUrl": "https://pub-8e209b081195480ba66821619a5a8ba3.r2.dev/coin_jar_v1.0.0.zip",
       "fileSizeMb": 157.7,
       "description": "Ứng dụng hũ xu TikTok tương tác phòng live, kích hoạt hiệu ứng rơi xu khi tặng quà và kết nối tài khoản TikTok Live.",
       "isRecommended": true,
