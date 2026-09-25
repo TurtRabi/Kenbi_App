@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-25T15:30:00Z",
+  "updatedAt": "2026-09-26T15:30:00Z",
   "appUpdate": {
-    "version": "2.1.3",
+    "version": "2.1.4",
     "releaseDate": "2026-09-17",
-    "fileName": "Kenbi_Live_Assistant_Setup_v2.1.3.exe",
-    "downloadUrl": "https://pub-8e209b081195480ba66821619a5a8ba3.r2.dev/Kenbi_Live_Assistant_Setup_v2.1.3.exe",
+    "fileName": "Kenbi_Live_Assistant_Setup_v2.1.4.exe",
+    "downloadUrl": "https://pub-8e209b081195480ba66821619a5a8ba3.r2.dev/Kenbi_Live_Assistant_Setup_v2.1.4.exe",
     "fileSizeMb": 50.8,
-    "sha256": "B3F6521DDE59B3D6A90037C6A77E2A35E02951713733445A3643DECA24858195",
+    "sha256": "36A1164CC1B97E8B6BCFCDF2FF16C0AABCF1D9B4BBA94846AB3EBB5879FE125A",
     "changelog": "• Nâng cấp tải đa luồng Multi-part 4-Stream siêu tốc độ cao.\n• Hiển thị rõ ràng tiến trình chi tiết các phần cài đặt Cubase & Waves 10.\n• Tích hợp tải trực tiếp từ máy chủ Cloudflare R2 nội địa siêu nhanh.\n• Bổ sung tính năng Thu âm & Kiểm tra Micro nhanh trên Menu Nổi."
   },
   "packages": [
