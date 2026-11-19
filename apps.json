@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-19T14:58:00Z",
+  "updatedAt": "2026-11-19T15:22:00Z",
   "appUpdate": {
     "version": "2.1.5",
     "releaseDate": "2026-09-17",
@@ -212,18 +212,18 @@
     },
     {
       "id": "tune_ai",
-      "name": "Tune Ai",
+      "name": "Tune AI Free (Bộ Chỉnh Phô & Dò Tone Hát Live)",
       "category": "AI",
       "version": "1.0.0",
-      "fileName": "",
-      "downloadUrl": "",
-      "fileSizeMb": 0,
-      "description": "",
+      "fileName": "Tune_AI_Free_Setup.exe",
+      "downloadUrl": "https://pub-6cc1b48dda6f4f2d961ff8ac9cf9dffa.r2.dev/releases/Tune_AI_Free_Setup.exe",
+      "fileSizeMb": 722.6,
+      "description": "Bộ công cụ tự động dò tone và chỉnh phô giọng hát AI độc quyền Kenbi Studio (Mật khẩu cài đặt: Kenbi2025@@).",
       "isRecommended": true,
-      "installedCheckProcessName": "",
-      "registrySearchName": "",
-      "commonExecutablePath": "",
-      "isComingSoon": true
+      "installedCheckProcessName": "CubaseTuneControl.Wpf",
+      "registrySearchName": "Tune AI",
+      "commonExecutablePath": "%LOCALAPPDATA%\\Programs\\TuneAI\\CubaseTuneControl.Wpf.exe",
+      "isComingSoon": false
     }
   ]
 }
