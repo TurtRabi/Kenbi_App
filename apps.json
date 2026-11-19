@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-26T15:30:00Z",
+  "updatedAt": "2026-11-19T14:58:00Z",
   "appUpdate": {
     "version": "2.1.5",
     "releaseDate": "2026-09-17",
@@ -197,18 +197,18 @@
     },
     {
       "id": "effect_tiktok",
-      "name": "Effect Tiktok",
+      "name": "Kenbi Live Manager (Bộ Hiệu Ứng & Tương Tác Live)",
       "category": "Hiệu Ứng",
-      "version": "1.0.0",
-      "fileName": "",
-      "downloadUrl": "",
-      "fileSizeMb": 0,
-      "description": "",
+      "version": "1.0.2",
+      "fileName": "Kenbi Live Manager Setup 1.0.2.exe",
+      "downloadUrl": "https://pub-6cc1b48dda6f4f2d961ff8ac9cf9dffa.r2.dev/releases/Kenbi%20Live%20Manager%20Setup%201.0.2.exe",
+      "fileSizeMb": 130.3,
+      "description": "Nền tảng điều hành livestream TikTok chuyên nghiệp: hiệu ứng khung vinh danh 9:16, nhận diện quà tặng, pháo hoa nổ quà, hũ xu, PK thi đấu và đọc comment TTS.",
       "isRecommended": true,
-      "installedCheckProcessName": "",
-      "registrySearchName": "",
-      "commonExecutablePath": "",
-      "isComingSoon": true
+      "installedCheckProcessName": "Kenbi Live Manager",
+      "registrySearchName": "Kenbi Live Manager",
+      "commonExecutablePath": "%LOCALAPPDATA%\\Programs\\kenbi-live-manager\\Kenbi Live Manager.exe",
+      "isComingSoon": false
     },
     {
       "id": "tune_ai",
