@@ -1,14 +1,13 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-19T15:22:00Z",
+  "updatedAt": "2026-11-20T08:48:00Z",
   "appUpdate": {
-    "version": "2.1.5",
-    "releaseDate": "2026-09-17",
-    "fileName": "Kenbi_Live_Assistant_Setup_v2.1.5.exe",
-    "downloadUrl": "https://pub-8e209b081195480ba66821619a5a8ba3.r2.dev/Kenbi_Live_Assistant_Setup_v2.1.5.exe",
-    "fileSizeMb": 50.8,
-
-    "changelog": "• Nâng cấp tải đa luồng Multi-part 4-Stream siêu tốc độ cao.\n• Hiển thị rõ ràng tiến trình chi tiết các phần cài đặt Cubase & Waves 10.\n• Tích hợp tải trực tiếp từ máy chủ Cloudflare R2 nội địa siêu nhanh.\n• Bổ sung tính năng Thu âm & Kiểm tra Micro nhanh trên Menu Nổi."
+    "version": "2.1.6",
+    "releaseDate": "2026-11-20",
+    "fileName": "Kenbi_Live_Assistant_Setup_v2.1.6.exe",
+    "downloadUrl": "https://pub-8e209b081195480ba66821619a5a8ba3.r2.dev/Kenbi_Live_Assistant_Setup_v2.1.6.exe",
+    "fileSizeMb": 48.5,
+    "changelog": "• Giao diện Studio Deck mới phong cách Cyber Obsidian & Broadcast Flame.\n• Tự động kích hoạt '素材预览' (Material Preview) khi mở App Trung.\n• Nâng cấp thao tác chuột phải và nhận diện thị giác nguồn Live.\n• Cải thiện hiệu năng và độ ổn định tổng thể."
   },
   "packages": [
     {
